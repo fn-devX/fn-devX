@@ -1,1 +1,1 @@
-[![Spotify](https://novatorem-drab-chi.vercel.app/api/spotify)](https://open.spotify.com/user/27f373bb954743c9ba35671e1d2d875d)
+[<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mpqi4kkskgkzznalqp2tqkrybq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="800"/>](https://spotify-github-profile.kittinanx.com/api/view?uid=31mpqi4kkskgkzznalqp2tqkrybq&redirect=true)
