@@ -1,5 +1,5 @@
 &nbsp;<div align="center">
-  [<img src="https://novatorem-drab-chi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="500" /> ](https://open.spotify.com/user/31mpqi4kkskgkzznalqp2tqkrybq)
+  [<img src="https://novatorem-drab-chi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" /> ](https://open.spotify.com/user/31mpqi4kkskgkzznalqp2tqkrybq)
 </div>
 
 &nbsp;<div align="center">
